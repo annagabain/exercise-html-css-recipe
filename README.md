@@ -1,4 +1,7 @@
-# [Live View]: (https://htmlpreview.github.io/?https://raw.githubusercontent.com/annagabain/exercise-html-css-recipe/main/index.html)
+
+:point_down: Click the link below for the live view: 
+
+# [Live View](https://htmlpreview.github.io/?https://raw.githubusercontent.com/annagabain/exercise-html-css-recipe/main/index.html)
 
 
 ## Övning:
